@@ -29,39 +29,39 @@ namespace MJC_HW2_UserInterfaceOfDoom
         private void button5_Click(object sender, EventArgs e)
         {
             this.Close();
-            form1.LogEntry("Closed Other1 form.");
+            form1.LogEntry("(button5_Click) Closed Other1 form.");
         }
 
         //Number buttons
         private void button1_Click(object sender, EventArgs e)
         {
             form1.Integer1Box = ("1" + $"{form1.Integer1Box}");
-            form1.LogEntry("Pressed 1.");
+            form1.LogEntry("(button1_Click) Pressed 1.");
         }
         private void button4_Click(object sender, EventArgs e)
         {
             form1.Integer1Box = ("4" + $"{form1.Integer1Box}");
-            form1.LogEntry("Pressed 4.");
+            form1.LogEntry("(button4_Click) Pressed 4.");
         }
         private void button6_Click(object sender, EventArgs e)
         {
             form1.Integer1Box = ("6" + $"{form1.Integer1Box}");
-            form1.LogEntry("Pressed 6.");
+            form1.LogEntry("(button6_Click) Pressed 6.");
         }
         private void button8_Click(object sender, EventArgs e)
         {
             form1.Integer1Box = ("8" + $"{form1.Integer1Box}");
-            form1.LogEntry("Pressed 8.");
+            form1.LogEntry("(button8_Click) Pressed 8.");
         }
         private void button9_Click(object sender, EventArgs e)
         {
             form1.Integer1Box = ("9" + $"{form1.Integer1Box}");
-            form1.LogEntry("Pressed 9.");
+            form1.LogEntry("(button9_Click) Pressed 9.");
         }
         private void button0_Click(object sender, EventArgs e)
         {
             form1.Integer1Box = ("0" + $"{form1.Integer1Box}");
-            form1.LogEntry("Pressed 0.");
+            form1.LogEntry("(button0_Click) Pressed 0.");
         }
 
 

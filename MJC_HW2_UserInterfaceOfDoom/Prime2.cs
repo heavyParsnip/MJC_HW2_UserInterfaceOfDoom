@@ -29,29 +29,29 @@ namespace MJC_HW2_UserInterfaceOfDoom
         private void button5_Click(object sender, EventArgs e)
         {
             this.Close();
-            form1.LogEntry("Closed Prime2 form.");
+            form1.LogEntry("(button5_Click) Closed Prime2 form.");
         }
 
         //Number buttons
         private void button2_Click(object sender, EventArgs e)
         {
             form1.Integer2Box = ("2" + $"{form1.Integer2Box}");
-            form1.LogEntry("Pressed 2.");
+            form1.LogEntry("(button2_Click) Pressed 2.");
         }
         private void button3_Click(object sender, EventArgs e)
         {
             form1.Integer2Box = ("3" + $"{form1.Integer2Box}");
-            form1.LogEntry("Pressed 3.");
+            form1.LogEntry("(button3_Click) Pressed 3.");
         }
         private void button5_Click_1(object sender, EventArgs e)
         {
             form1.Integer2Box = ("5" + $"{form1.Integer2Box}");
-            form1.LogEntry("Pressed 5.");
+            form1.LogEntry("(button5_Click_1) Pressed 5.");
         }
         private void button7_Click(object sender, EventArgs e)
         {
             form1.Integer2Box = ("7" + $"{form1.Integer2Box}");
-            form1.LogEntry("Pressed 7.");
+            form1.LogEntry("(button7_Click) Pressed 7.");
         }
     }
 }

@@ -1,48 +1,23 @@
-[Oct 22 22:42] Application initialized.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Started calculation.
-[Oct 22 22:42] Error while calculating. Probably missing an integer.
-[Oct 22 22:42] Finished calculation.
-[Oct 22 22:42] Started calculation.
-[Oct 22 22:42] Error while calculating. Probably missing an integer.
-[Oct 22 22:42] Finished calculation.
-[Oct 22 22:42] Started calculation.
-[Oct 22 22:42] Error while calculating. Probably missing an integer.
-[Oct 22 22:42] Finished calculation.
-[Oct 22 22:42] Started calculation.
-[Oct 22 22:42] Error while calculating. Probably missing an integer.
-[Oct 22 22:42] Finished calculation.
-[Oct 22 22:42] Started calculation.
-[Oct 22 22:42] Error while calculating. Probably missing an integer.
-[Oct 22 22:42] Finished calculation.
-[Oct 22 22:42] Started calculation.
-[Oct 22 22:42] Error while calculating. Probably missing an integer.
-[Oct 22 22:42] Finished calculation.
-[Oct 22 22:42] Started calculation.
-[Oct 22 22:42] Error while calculating. Probably missing an integer.
-[Oct 22 22:42] Finished calculation.
-[Oct 22 22:42] Progress bar emptied.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Opened Other1 form.
-[Oct 22 22:42] Pressed 0.
-[Oct 22 22:42] Pressed 8.
-[Oct 22 22:42] Closed Other1 form.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Opened Other2 form.
-[Oct 22 22:42] Pressed 8.
-[Oct 22 22:42] Closed Other2 form.
-[Oct 22 22:42] Progress bar emptied.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Progress bar filled.
-[Oct 22 22:42] Started calculation.
-[Oct 22 22:42] Computed a sum of 88. Closing program.
-[Oct 22 22:42] Time since application started: 00:00:28
-[Oct 22 22:42] Finished calculation.
+[Oct 22 23:11] (Form1) Application initialized.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (otherButton1_Click) Opened Other1 form.
+[Oct 22 23:11] (button0_Click) Pressed 0.
+[Oct 22 23:11] (button8_Click) Pressed 8.
+[Oct 22 23:11] (button5_Click) Closed Other1 form.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (otherButton2_Click) Opened Other2 form.
+[Oct 22 23:11] button8_Click) Pressed 8.
+[Oct 22 23:11] (button5_Click) Closed Other2 form.
+[Oct 22 23:11] (emptyErOut_Click) Progress bar emptied.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (fillErUpButton_Click) Progress bar filled.
+[Oct 22 23:11] (calculateButton_Click) Started calculation.
+[Oct 22 23:11] (calculateButton_Click) Computed a sum of 88. Closing program.
+[Oct 22 23:11] Time since application started: 00:00:18
+[Oct 22 23:11] (calculateButton_Click) Finished calculation.

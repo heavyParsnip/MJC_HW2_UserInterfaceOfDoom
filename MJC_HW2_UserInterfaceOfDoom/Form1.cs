@@ -58,7 +58,7 @@ namespace MJC_HW2_UserInterfaceOfDoom
             //Initialize log
             using (StreamWriter writer = new StreamWriter("..\\..\\log.txt"))
             {
-                writer.WriteLine($"[{time.ToString(timeFormat)}] Application initialized.");
+                writer.WriteLine($"[{time.ToString(timeFormat)}] (Form1) Application initialized.");
             }
         }
 
@@ -174,7 +174,7 @@ namespace MJC_HW2_UserInterfaceOfDoom
             }
 
             //Log action
-            LogEntry("Progress bar filled.");
+            LogEntry("(fillErUpButton_Click) Progress bar filled.");
         }
 
         //Empty out the progress bar
@@ -194,7 +194,7 @@ namespace MJC_HW2_UserInterfaceOfDoom
             calculateButton.Enabled = false;
             calculateButton.BackColor = SystemColors.Control;
 
-            LogEntry("Progress bar emptied.");
+            LogEntry("(emptyErOut_Click) Progress bar emptied.");
         }
 
         //Pair of methods for clearing the integer fields
@@ -202,34 +202,34 @@ namespace MJC_HW2_UserInterfaceOfDoom
         {
             integer1Box.Text = "";
 
-            LogEntry("Integer box 1 cleared.");
+            LogEntry("(clearButton1_Click) Integer box 1 cleared.");
         }
         private void clearButton2_Click(object sender, EventArgs e)
         {
             integer2Box.Text = "";
 
-            LogEntry("Integer box 2 cleared.");
+            LogEntry("(clearButton2_Click) Integer box 2 cleared.");
         }
 
         //Set of methods for displaying the other forms
         private void primeButton1_Click(object sender, EventArgs e)
         {
-            LogEntry("Opened Prime1 form.");
+            LogEntry("(primeButton1_Click) Opened Prime1 form.");
             prime1.ShowDialog();
         }
         private void otherButton1_Click(object sender, EventArgs e)
         {
-            LogEntry("Opened Other1 form.");
+            LogEntry("(otherButton1_Click) Opened Other1 form.");
             other1.ShowDialog();
         }
         private void primeButton2_Click(object sender, EventArgs e)
         {
-            LogEntry("Opened Prime2 form.");
+            LogEntry("(primeButton2_Click) Opened Prime2 form.");
             prime2.ShowDialog();
         }
         private void otherButton2_Click(object sender, EventArgs e)
         {
-            LogEntry("Opened Other2 form.");
+            LogEntry("(otherButton2_Click) Opened Other2 form.");
             other2.ShowDialog();
         }
 
@@ -245,7 +245,7 @@ namespace MJC_HW2_UserInterfaceOfDoom
                     calcInt++;
                     calculateButton.Text = "Calculate?";
 
-                    LogEntry("Started calculation.");
+                    LogEntry("(calculateButton_Click) Started calculation.");
                     break;
                 case 1:
                     calculateButton.Width = calculateButton.Width -= 10;
@@ -262,7 +262,7 @@ namespace MJC_HW2_UserInterfaceOfDoom
                         if(int1+int2 == 88)
                         {
                             sw.Stop();
-                            LogEntry("Computed a sum of 88. Closing program.");
+                            LogEntry("(calculateButton_Click) Computed a sum of 88. Closing program.");
                             using (StreamWriter writer = new StreamWriter("..\\..\\log.txt", true))
                             {
                                 writer.WriteLine($"[{time.ToString(timeFormat)}] " + "Time since application started: {0:hh\\:mm\\:ss}", sw.Elapsed);
@@ -280,18 +280,18 @@ namespace MJC_HW2_UserInterfaceOfDoom
                     calcInt--;
                     calculateButton.Text = "Calculate";
 
-                    LogEntry("Finished calculation.");
+                    LogEntry("(calculateButton_Click) Finished calculation.");
                     break;
                 default:
                     calcInt = 0;
-                    LogEntry("Calculation anomaly occurred.");
+                    LogEntry("(calculateButton_Click) Calculation anomaly occurred.");
                     break;
             }            
         }
 
         private void instructionsBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-            LogEntry("Read some instructions.");
+            LogEntry("(instructionsBox_SelectedIndexChanged) Read some instructions.");
         }
 
         //Method for logging actions
