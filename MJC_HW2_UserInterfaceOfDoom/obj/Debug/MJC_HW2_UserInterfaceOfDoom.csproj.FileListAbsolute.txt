@@ -1,0 +1,14 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\bin\Debug\MJC_HW2_UserInterfaceOfDoom.exe.config
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\bin\Debug\MJC_HW2_UserInterfaceOfDoom.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\bin\Debug\MJC_HW2_UserInterfaceOfDoom.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.Form1.resources
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.Other1.resources
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.Other2.resources
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.Prime1.resources
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.Prime2.resources
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.Properties.Resources.resources
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.csproj.GenerateResource.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_HW2_UserInterfaceOfDoom\MJC_HW2_UserInterfaceOfDoom\obj\Debug\MJC_HW2_UserInterfaceOfDoom.pdb
